@@ -2,8 +2,6 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
-
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores e dar continuidade ao atedimento eficientemente |
@@ -21,7 +19,7 @@ Fiz algumas modificações para os dados ficarem mais coerentes com uma pessoa q
 
 ## Estratégia de Integração
 
-### Como os dados são carregados?
+### Como os dados são carregados:
 Dados injetados diretamente no prompt (CTRL+C, CTRL+V) ou carregar via código como no exemplo:
 
 ```python
@@ -34,7 +32,7 @@ historico = pd.read_csv('./data/historico_atendimento.csv')
 produtos = json.load(open('./data/produtos_financeiros.json'))
 ```
 
-### Como os dados são usados no prompt?
+### Como os dados são usados no prompt:
 Injeção de dados diretamente no prompt para o máximo de contexto possível, em soluções mais robustas as informações devem ser idealmente carregadas dinamicamente para maior flexibilidade.
 ```text
 DADOS DO CLIENTE (perfil_investidor.json):
