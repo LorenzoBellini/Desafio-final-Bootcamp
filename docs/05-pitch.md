@@ -17,16 +17,14 @@
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [X] Duração máxima de 3 minutos
+- [X] Problema claramente definido
+- [X] Solução demonstrada na prática
+- [X] Diferencial explicado
+- [X] Áudio e vídeo com boa qualidade
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+[Pitch de 3 minutos](https://drive.google.com/file/d/1aIEGLB0qfC6BiQziMoeviOPkbJf1ZpXb/view?usp=sharing)
